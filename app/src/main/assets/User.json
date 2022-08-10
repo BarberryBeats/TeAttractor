@@ -1,0 +1,18 @@
+[
+	{
+		"firstName": "Ramis",
+		"photo": "https://imgur.com/9TwxCaz.png",
+		"secondName": "Abasov",
+		"education": 1,
+		"company": [
+			{
+				"name": "GeekTech",
+				"position": "student"
+			},
+			{
+				"name": "Attractor",
+				"position": "developer"
+			}
+		]
+	}
+]

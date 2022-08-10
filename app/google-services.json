@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994988426813",
+    "project_id": "teattractor",
+    "storage_bucket": "teattractor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994988426813:android:1c21f9d44730e40ac94c54",
+        "android_client_info": {
+          "package_name": "kg.geektech.teattractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994988426813-0tp2uqd37kgri3c07aafhg8h0gv0pvpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.geektech.teattractor",
+            "certificate_hash": "31a691993d117b4ab645bf3ce70ba0ef79e703e3"
+          }
+        },
+        {
+          "client_id": "994988426813-2gfsc6bvd2jhdkn11e4ko0rhfig14u07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBCaYaon-9-7EMQ10HweKfMi-36iTR-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994988426813-2gfsc6bvd2jhdkn11e4ko0rhfig14u07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
